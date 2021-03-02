@@ -663,4 +663,4 @@ def traceEvent(logFilter, message, displayEvent = false, traceLevel = 4, sendMes
 				break
 		}
 	}
-} 
+}
